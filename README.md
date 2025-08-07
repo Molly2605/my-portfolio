@@ -1,4 +1,4 @@
-# Portfolio de Mili Lasschar
+# Portfolio
 
 Este es mi portfolio personal, desarrollado con Next.js y Tailwind CSS.
 
