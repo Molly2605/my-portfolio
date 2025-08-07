@@ -1,11 +1,12 @@
 # Portfolio
 
-Este es mi portfolio personal, desarrollado con Next.js y Tailwind CSS.
+This is my personal portfolio, developed with Next.js and Tailwind CSS.
 
-## Despliegue
+## Deployment
 
-Está desplegado en Netlify y podés verlo en:  
-[https://tu-url.netlify.app](https://tu-url.netlify.app)
+It is deployed on Netlify and you can view it at:  
+[https://your-url.netlify.app](https://your-url.netlify.app)
+
 
 ## Usage
 
