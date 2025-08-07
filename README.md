@@ -1,12 +1,11 @@
-# Portfolio Website
+# Portfolio de Mili Lasschar
 
-This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+Este es mi portfolio personal, desarrollado con Next.js y Tailwind CSS.
 
-## Installation
+## Despliegue
 
-1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+Está desplegado en Netlify y podés verlo en:  
+[https://tu-url.netlify.app](https://tu-url.netlify.app)
 
 ## Usage
 
